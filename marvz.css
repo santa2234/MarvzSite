@@ -1,0 +1,118 @@
+@font-face {font-family: Marvel; src: url('Marvel-Bold.tff');}
+
+/*
+
+    LET OP VOOR DE IMAGES
+    HET IS NIET ONZE FOUT????
+    DE IMAGES HUN SIZE MOETEN INGESTELD ZIJN OP VOLGENDE PROPERTIES
+
+    DIMENSIONS: 1920x1080
+    WIDTH: 1920
+    HEIGHT:1080
+
+    MISSCHIEN IS WERKT DIT OMDAT DIT OOK DE RESOLUTIE IS VAN
+    EEN COMPUTERSCHERM????
+
+*/
+
+h1{
+
+    color:red;
+    text-align: center;
+    font-family: Marvel;
+}
+
+nav{
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    color:black;
+}
+li{
+}
+body{
+  /*  background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(18,189,81,1) 100%); */
+}
+
+img{
+    /*/border: 2px solid red;*/
+}
+
+#carcontain{
+
+/*    border: 2px solid red; */
+    margin-top:2%;
+    width:100%;
+
+}
+
+#bodyPartie{
+    overflow:hidden;
+}
+
+#carouselExampleIndicators{
+    height: 550px;
+}
+
+#carouselExampleIndicators img{
+    
+    width:100%;
+}
+#img_nav_home{
+    height:60px!important;
+    width:60px!important;
+}
+
+/*dit is de span*/
+
+#partynav{
+    height:50px;
+    width:50px;
+}
+
+#socialNav{
+    width:100%;
+    height:100%;
+}
+
+#socialNav img{
+
+    width:40px;
+    height:40px;
+}
+
+#imgbar{
+
+    width:60px;
+    height:60px;
+}
+.flex{
+    flex-direction: row;
+}
+.fit-image{
+    width: 100%;
+    object-fit: cover;
+    
+}
+#tekst{
+    border:2px solid red;
+}
+
+/*HIERONDER ZIJN DE BIO's VAN DE ARTIESTEN VAN DE HOMEPAGE*/
+
+#goblinSpidey{
+    
+}
+
+.float{
+    float:right;
+}
+.artistMargin{
+    margin-top:20px;
+}

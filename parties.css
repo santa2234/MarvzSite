@@ -1,0 +1,27 @@
+body{
+
+    background-color:black;
+}
+
+#socialNav{
+    background-color:black;
+}
+
+img{
+    z-index:200;
+}
+nav a{
+    color:white;
+}
+
+#koptekst{
+    color:white;
+
+}
+#navPartie{
+    background-color:black!important;
+}
+p{
+    color:hsl(120, 16%, 79%)
+
+}
